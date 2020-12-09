@@ -1,4 +1,5 @@
 ![St. Abbs](St_abbs.jpg)
+*📷 Starney Bay, St. Abbs, Scotland*
 ### Hi there 👋
 
 <!--
@@ -11,6 +12,4 @@
 - 📫 How to reach me: https://www.linkedin.com/in/mrinmoy-sonowal-857566194/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Been to over 12 countries ( in 4 continents)
-- 📷 Image -
-    - Location : St. Abbs, Scotland, United Kingdom
-    - Shot on: Samsung s10+
+
