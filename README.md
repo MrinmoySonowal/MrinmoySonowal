@@ -5,9 +5,9 @@
 <!--
 **MrinmoySonowal/MrinmoySonowal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on small projects - advent of code, projects with peers
-- 🌱 I’m currently learning - Data Science, Computer Systems, Algorithms and Data Structures
-- 🤔 I’m looking for software enginnering summer internships for 2021
+- 🔭 I’m currently working on small projects, leetcode problems and attempting to build my profile webpage
+- 🌱 I’m currently learning - Data Science, Software Engineering, Algorithms and Data Structures, and Web
+- 🤔 I’m looking for fun and insigtful projects to work
 - 💬 Talk to me about - project ideas, internship oppurtunities
 - 📫 How to reach me: https://www.linkedin.com/in/mrinmoy-sonowal-857566194/
 - 😄 Pronouns: He/Him
