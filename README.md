@@ -1,4 +1,4 @@
-![St. Abbs](St_abbs.jpg)
+![St. Andrews](St_Andrews.jpg)
 *📷 Starney Bay, St. Abbs, Scotland*
 ### Hi there 👋
 
