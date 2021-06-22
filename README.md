@@ -1,5 +1,5 @@
 ![St. Andrews](St_Andrews.jpg)
-*📷 Starney Bay, St. Abbs, Scotland*
+*📷 St Andrews Beach, St Andrews, Scotland*
 ### Hi there 👋
 
 <!--
