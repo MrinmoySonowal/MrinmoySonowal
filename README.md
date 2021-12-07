@@ -1,5 +1,5 @@
-![Highland coos](highland-coos.jpg)
-*📷 Perth, Scotland*
+![Grassmarket (Picture taken from King george iv bridge)](grassmarket.jpg)
+*📷 Grassmarket, Edinburgh, Scotland*
 ### Hi there 👋
 
 <!--
