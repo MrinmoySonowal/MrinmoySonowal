@@ -1,5 +1,5 @@
-![St. Andrews](St_Andrews.jpg)
-*📷 St Andrews Beach, St Andrews, Scotland*
+![Highland coos](highland-coos.jpg)
+*📷 Perth, Scotland*
 ### Hi there 👋
 
 <!--
