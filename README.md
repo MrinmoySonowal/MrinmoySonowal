@@ -5,8 +5,8 @@
 <!--
 **MrinmoySonowal/MrinmoySonowal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on my courses for my final year in the University of edinbugh
-- 🌱 I’m currently learning - Communication and networks, Software Engineering, Text techonplogies and Machine Learning.
+- 🔭 I’m currently working on the operational excellence of my team [(Rufus)](https://www.aboutamazon.com/news/retail/how-to-use-amazon-rufus) in Amazon
+- 🌱 I’m currently learning - how to emit metrics using internal tools as well as how to dashboard and emit in ShortQ
 - 🤔 I’m looking for fun and insightful projects to work on.
 - 💬 Talk to me about - project ideas
 - 📫 How to reach me: https://www.linkedin.com/in/mrinmoy-sonowal-857566194/
