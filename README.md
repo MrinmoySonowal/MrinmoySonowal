@@ -1,5 +1,5 @@
-![Grassmarket (Picture taken from King george iv bridge)](grassmarket.jpg)
-*📷 Grassmarket, Edinburgh, Scotland*
+![Millennium park](chicago_bean.jpg)
+*📷 The Bean, Millennium park, Chicago, Illinois*
 ### Hi there 👋
 
 <!--
